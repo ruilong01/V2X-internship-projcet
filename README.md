@@ -33,19 +33,15 @@ python mock_client.py
 
 ---
 
+
 ## 🎥 Demo Videos
 
-<details>
-<summary><strong>▶ Real-time GPS Mapping Demo</strong></summary>
+### 🔹 Real-time GPS Mapping  
+[![Watch on YouTube](https://img.shields.io/badge/▶%20Watch%20Demo%20on%20YouTube-red)](https://youtu.be/YOUR_LINK_HERE)
 
-<video src="map.mp4" controls width="640"></video>  
-</details>
+### 🔹 Traffic Notification Trigger  
+[▶ Watch traffic demo](https://drive.google.com/file/d/YOUR_VIDEO_ID/view)
 
-<details>
-<summary><strong>▶ Traffic Notification System</strong></summary>
-
-<video src="traffic noti.mp4" controls width="640"></video>  
-</details>
 
 
 ---
