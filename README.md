@@ -33,11 +33,20 @@ python mock_client.py
 
 ---
 
-## 45‑Second Walk‑through ▶️  
+## 🎥 Demo Videos
 
-<video src="v2x_communication_team.mp4" controls width="640"></video>
+<details>
+<summary><strong>▶ Real-time GPS Mapping Demo</strong></summary>
 
-*(If the video doesn’t auto‑play on GitHub, download and open locally.)*
+<video src="map.mp4" controls width="640"></video>  
+</details>
+
+<details>
+<summary><strong>▶ Traffic Notification System</strong></summary>
+
+<video src="traffic noti.mp4" controls width="640"></video>  
+</details>
+
 
 ---
 
